@@ -2,7 +2,7 @@
 
 TODO: write [great documentation](http://jacobian.org/writing/great-documentation/what-to-write/)
 
-‘’‘
+“”“
 import java.util.List;
 import java.util.function.Function;
 
@@ -70,4 +70,4 @@ public class LazyDbReader {
         return Stream.empty();
     }
 }
-’‘’
+”“”
